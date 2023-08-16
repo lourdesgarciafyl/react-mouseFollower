@@ -45,7 +45,7 @@ const FollowMouse = () => {
         transform: `translate(${position.x}px, ${position.y}px)`
       }}/>
     <button onClick={() => setEnabled(!enabled)}>
-      {enabled ? "Desactivar" : "Activar"}seguir puntero
+      {enabled ? "Desactivar" : "Activar"} seguir puntero
     </button>
       </>
     )
