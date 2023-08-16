@@ -1,8 +1,10 @@
 # Mouse Follower
 Este ejercicio se realizó para poner en práctica el manejo de useState y useEffect.
 
-## Para visuarlo: [Click aquí](https://mousefollowerreact.netlify.app/)
-## Para poder visualizarlo:
+## El resultado: 
+[Click aquí](https://mousefollowerreact.netlify.app/)
+
+## Para ver el código y probar de forma local:
 
 - **1**-Hacer un fork del repositorio.
 - **2-** Clonar el repositorio en su computadora.
